@@ -2,7 +2,7 @@ import requests
 import json
 from pyyoutube import Api
  
-key = "<AIzaSyAV5iDlPE-QLiRatNnS9ErxrMEEJCiQkAk>"
+key = "<AIzaSyDpahJnKSz0A09d7krIguFof4OoMRpuBDU>"
 api = Api(api_key=key)
  
 query = "'Mission Impossible'"
